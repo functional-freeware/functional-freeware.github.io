@@ -1,0 +1,33 @@
+body {
+    display: grid;
+    grid-template-columns: 13rem 1fr;
+    height: 100%;
+    margin: 0px;
+}
+
+img {
+    max-width: 100%;
+}
+
+nav {
+    padding: 1rem;
+}
+
+nav h1 {
+    font-size: 1.2rem;
+}
+
+main {
+    padding: 1rem;
+}
+
+header {
+    background-color: PapayaWhip;
+    text-align: center;
+    padding: 1rem;
+}
+
+nav {
+    border-right: solid black 3px;
+    height: 100vh;
+}
